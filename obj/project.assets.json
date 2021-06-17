@@ -7461,11 +7461,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Владос\\Desktop\\MvcMovie07\\MvcMovie.csproj",
+      "projectUniqueName": "C:\\Users\\Владос\\Desktop\\СТЕТ\\MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "C:\\Users\\Владос\\Desktop\\MvcMovie07\\MvcMovie.csproj",
+      "projectPath": "C:\\Users\\Владос\\Desktop\\СТЕТ\\MvcMovie.csproj",
       "packagesPath": "C:\\Users\\Владос\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Владос\\Desktop\\MvcMovie07\\obj\\",
+      "outputPath": "C:\\Users\\Владос\\Desktop\\СТЕТ\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Владос\\AppData\\Roaming\\NuGet\\NuGet.Config",

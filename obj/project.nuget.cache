@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eRN3dUqJMeeBUpDnOH+u3oiVsrUaLxyeTInGFxYFJLiFSDSenhJBk/dkEiypoO3N1xWmXQKOmLQrm5l4KGDP/Q==",
+  "dgSpecHash": "cvmdw/uZ26n88J+v5Hrotau2bKcCMF6hQ+0RMocWldW3zFzA3oJZuXU0jsyJJmkx4+Npb1VIIJMUSPN758RjtQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Владос\\Desktop\\MvcMovie07\\MvcMovie.csproj",
+  "projectFilePath": "C:\\Users\\Владос\\Desktop\\СТЕТ\\MvcMovie.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Владос\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Владос\\.nuget\\packages\\microsoft.aspnetcore.diagnostics.entityframeworkcore\\5.0.7\\microsoft.aspnetcore.diagnostics.entityframeworkcore.5.0.7.nupkg.sha512",
